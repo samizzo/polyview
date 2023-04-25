@@ -1,5 +1,5 @@
-### PolyView 1.3b - Unreleased ANSI viewer
-==========================================
+PolyView 1.3b - Unreleased ANSI viewer
+------------------------------------------
 
 This is the Turbo Pascal 7 source to PolyView, an unreleased (as far as I recall) MS-DOS
 ANSI/RIP viewer that I wrote for the Melbourne, Australia-based polyester art group, which
