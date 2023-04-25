@@ -6,7 +6,7 @@ ANSI/RIP viewer that I wrote for the Melbourne, Australia-based polyester art gr
 I was a member of briefly. I can't find any releases that included this viewer, and the
 1998/99 polyester releases include a different Polyview which was written by Grant Passmore,
 aka skaboy / ACiD Productions, apparently as a favor/under contract to rippa, the founder
-of Polyester.
+of polyester.
 
 I had somehow been hooked up with rippa and asked to build the viewer and join polyester.
 I don't recall why my version was never used though, and I'm not listed as a member of
@@ -25,7 +25,7 @@ Use COMPILE.BAT to compile the sources. The batch file expects TP to be installe
 Adjust this in COMPILE.BAT as appropriate. The code will build into the BIN subdirectory.
 
 The OBJ directory contains various precompiled files that are linked in (fonts, Turbo
-Pascal's, EGA/VGA driver, the ANSI screen).
+Pascal's EGA/VGA driver, the ANSI screen which was probably saved to OBJ from TheDraw).
 
 Unfortunately I couldn't find the source for P_SAUCE.TPU. I'm unsure why it's missing. This
 is the unit that deals with reading the [SAUCE](https://github.com/radman1/sauce) information
